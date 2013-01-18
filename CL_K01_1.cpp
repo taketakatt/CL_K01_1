@@ -3,6 +3,6 @@
 /* 課題名：課題01_1 */
 void main(void) {
 	int sum;
-	sum = 19+ 32 +13 +42;
-	printf("15に37を足した値は%dです。\n",sum);
+	sum = 9+ 3+ 42 +76 ;
+	printf("sumを合計した値は%dです。\n",sum);
 }
